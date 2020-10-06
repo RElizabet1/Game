@@ -1,0 +1,16 @@
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\bin\Debug\MusicGame.exe.config
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\bin\Debug\MusicGame.exe
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\bin\Debug\MusicGame.pdb
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\obj\Debug\MusicGame.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\obj\Debug\MusicGame.MainForm.resources
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\obj\Debug\MusicGame.Properties.Resources.resources
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\obj\Debug\MusicGame.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\obj\Debug\MusicGame.exe
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\obj\Debug\MusicGame.pdb
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\obj\Debug\MusicGame.Params.resources
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\obj\Debug\MusicGame.csproj.ResolveComReference.cache
+C:\Users\Nikita\source\repos\MusicGame\MusicGame\obj\Debug\MusicGame.Game.resources
